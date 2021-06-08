@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;    
+}
+body {
+    background-color:dimgrey;
+}
+#contenedor {
+    max-width: 1000px;    
+    background-color: red;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*MENU NAVEGACIÓN*/
+#menu-h {
+    height: 100px;
+    background-color: orange;
+}
+#box1 {
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    float: left;
+}
+#box1 img {
+    height: 100px;
+    width: 200px;
+}
+#box2 {
+    height: 100px;
+    width: 200px;
+    background-color: cornflowerblue;
+    float: left;
+}
+#box2 img {
+    height: 100px;
+    width: 200px;
+}
+#box3 {
+    height: 100px;
+    width: 200px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+#box3 img {
+    height: 100px;
+    width: 200px;
+}
+#box4 {
+    height: 100px;
+    width: 200px;
+    background-color: darkred;
+    float: left;
+}
+#box4 img {
+    height: 100px;
+    width: 200px;
+}
+#box5 {
+    height: 100px;
+    width: 200px;
+    background-color: darkslategray;
+    float: left;
+}
+#box5 img {
+    height: 100px;
+    width: 200px;
+}
+/*CABECERA*/
+header {
+    height: 300px;
+    background-color: green;
+}
+#banner {
+    height: 300px;
+    width: 800px;
+    background-color: fuchsia;
+    float: left;
+}
+#banner img {
+    height: 300px;
+    width: 800px;
+}
+#logo {
+    height: 100px;
+    width: 200px;
+    background-color: lightslategray;
+    float: left;
+}
+#logo img {
+    height: 100px;
+    width: 200px;
+}
+#login {
+    height: 100px;
+    width: 200px;
+    background-color: moccasin;
+    float: left;
+}
+#login img {
+    height: 100px;
+    width: 200px;
+}
+#form {
+    height: 100px;
+    width: 200px;
+    background-color: orchid;
+    float: left;
+}
+#form img {
+    height: 100px;
+    width: 200px;
+}
+
+/*PRINCIPAL*/
+main {
+    height: 500px;
+    background-color: greenyellow;
+}
+#asleft {
+    height: 500px;
+    width: 200px;
+    background-color: peru;
+    float: left;
+}
+article {
+    height: 500px;
+    width: 500px;
+    background-color:red;
+    float: left;
+}
+#asright {
+    height: 500px;
+    width: 300px;
+    background-color: saddlebrown;
+    float: left;
+}
+
+/*PIE DE PÁGINA*/
+footer {
+    height: 50px;
+    background-color: black;
+}
